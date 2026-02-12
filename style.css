@@ -1001,6 +1001,10 @@ input[type=number] {
   .join-us-title {
     margin-bottom: 80px;
   }
+    
+  .banner {
+    min-height: calc(40vh - 90px);
+  }
 
   .lokation {
     display: flex;
@@ -1076,6 +1080,10 @@ input[type=number] {
 
   .banner-info::before {
     margin-right: 10px;
+  }
+    
+  .banner {
+    min-height: calc(40vh - 90px);
   }
 
   .banner-info {
